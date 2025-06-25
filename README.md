@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -8,6 +9,24 @@
 </head>
 
 <body>
+    <style>.bg-container-1 {
+    background-image: url("https://img.freepik.com/free-vector/red-white-watercolor-background-design_1034-740.jpg?semt=ais_hybrid&w=740");
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    font-family: fantasy;
+    text-align: center;
+    font-size: 25px;
+}
+
+.image {
+    height: 50vh;
+    width: 40vw;
+}
+
+.para {
+    color: black;
+}</style>
     <div class="container">
         <div class=" row">
             <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
@@ -43,3 +62,4 @@
 </body>
 
 </html>
+                                
